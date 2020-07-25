@@ -8,6 +8,7 @@
 
 # Instructions to run/build 
 After cloning the repository 
+
 npm i to install dependencies
 
 # Start development server 
